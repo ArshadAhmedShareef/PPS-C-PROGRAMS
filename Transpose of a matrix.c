@@ -1,6 +1,8 @@
 //Transpose of a matrix.
-/* To initialize values for variable length arrays we can use scanf statement and loop constructs.*/
-/* Ex- for (i=0 ; i<3; i++) for(j=0;j<3;j++) scanf(“%d”,&arr[i][j]); */
+/* To initialize values for variable length arrays we can use scanf statement and loop constructs.
+Ex- for (i=0 ; i<3; i++) 
+for(j=0;j<3;j++) 
+scanf(“%d”,&arr[i][j]);*/
 #include <stdio.h>
 int main()
 {
