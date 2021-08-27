@@ -1,4 +1,5 @@
 #include<stdio.h> 
+/*anchor   and recursion*/
 void fibonacci(int n);
 void main()
 {
